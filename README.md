@@ -76,7 +76,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [crazymathew29@gmail.com](mailto:crazymathew29@gmail.com)  
+- 📧 Email: [mat.szalonek@gmail.com](mailto:mat.szalonek@gmail.com)  
 - 🏢 Website: [MIB Agency](https://mbpixelworks.com)
 
 ---

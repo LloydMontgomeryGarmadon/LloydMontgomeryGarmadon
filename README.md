@@ -1,19 +1,20 @@
-<h1 align="center">Hi there 👋, I'm Mateusz (Matthew)</h1>
+<h1 align="center">🌼 Howdy! I'm Mateusz 👋.</h1>
+
 <p align="center">
-  Founder & CEO of MIB Agency | Full-Stack Enthusiast | SEO & CMS Expert | Digital Strategist
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Freelance+Web+Developer+%26+SEO+Specialist;Digital+Marketing+Strategist;Independent+Creator+behind+MIB+Pixelworks" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-- 👨‍💼 Founder & CEO at **MIB**, a modern interactive agency based in Poland 🇵🇱  
+- 👨‍💻 Independent digital professional and creator behind **MIB Pixelworks**, a modern interactive agency based in Poland 🇵🇱  
 - 🎯 Specialist in **SEO**, **CMS platforms**, and **digital marketing**  
-- 🔧 1 year of hands-on experience in IT services & freelance software development  
-- 🌐 Built websites, e-commerce stores & applications for clients  
+- 🔧 1+ year of hands-on experience in IT services and freelance web development  
+- 🌐 Built websites, e-commerce platforms & lightweight applications for various clients  
 - 🎓 Cisco IT Essentials Certified  
 - 🧠 Calm, logical, and tech-savvy by nature  
-- 🖥️ Skilled in both Linux & Windows environments  
+- 🖥️ Comfortable in both Linux & Windows environments  
 - 🎥 Experienced in Adobe Premiere Pro & Photoshop  
 
 ---
@@ -25,6 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -50,27 +52,35 @@
 
 ## 💼 What I Do
 
-- 👔 Lead digital strategy & technical direction at [**MIB Agency**](https://mbpixelworks.com)  
-- 📈 Develop high-impact **SEO campaigns** and search performance audits  
-- 🧩 Architect **CMS solutions** for scalable content management  
-- 📢 Plan and execute **online marketing strategies** for brands and startups  
-- 🤝 Manage cross-functional teams and client relations
+- 📈 Develop high-impact **SEO campaigns** and technical audits  
+- 🧩 Architect **CMS-based solutions** (WordPress & custom)  
+- 📢 Plan and execute **digital marketing strategies**  
+- 🤝 Collaborate with clients directly and deliver tailored results  
+- 🔍 Optimize websites for performance, UX, and search visibility  
 
 ---
 
-## 🌍 Languages
+## 🏆 GitHub Achievements
 
-- 🇵🇱 Polish – Native  
-- 🇬🇧 English – B2
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LloydMontgomeryGarmadon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&title=Commits,Repositories,PullRequest,Experience" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LloydMontgomeryGarmadon&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LloydMontgomeryGarmadon&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LloydMontgomeryGarmadon&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LloydMontgomeryGarmadon&layout=compact&theme=tokyonight" height="180" />
 </p>
+
+---
+
+## 🌍 Languages
+
+- 🇵🇱 Polish – Native  
+- 🇬🇧 English – B2  
 
 ---
 
@@ -78,7 +88,8 @@
 
 - 📧 Email: [mat.szalonek@gmail.com](mailto:mat.szalonek@gmail.com)  
 - 🏢 Website: [MIB Agency](https://mbpixelworks.com)
+- 💼 LinkedIn: [Mateusz Szalonek](https://www.linkedin.com/in/mateusz-szalonek-40a069373)
 
 ---
 
-_Thanks for stopping by! I'm always open to meaningful collaboration in tech, strategy, and digital innovation._
+_Thanks for visiting! I’m always open to meaningful collaboration in tech, strategy, and digital innovation._
